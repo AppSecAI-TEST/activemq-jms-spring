@@ -7,6 +7,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * Created by yaming on 17-5-8.
+ * 欢迎页面
  */
 @Controller
 public class WelcomeController {
